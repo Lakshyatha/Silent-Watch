@@ -111,7 +111,6 @@ export function LoginPage() {
         </div>
 
         <div className="mt-6 text-center text-slate-500 text-xs">
-          <p>Simulated IoT threat detection for educational purposes</p>
         </div>
       </div>
     </div>
